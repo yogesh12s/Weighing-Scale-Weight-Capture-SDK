@@ -33,7 +33,7 @@ Connect your weighing scale via USB/Serial.
 
 Run the app:
 ```bash
-python weighing_app.py
+python weight.py
 ```
 Select COM port from the dropdown.
 
