@@ -65,6 +65,8 @@ Capture sample weights during tests or experiments
 Verify weight during parcel packaging and invoicing
 
 Prevent fraud or underweight packaging
+
+
 **Contact:**
 
 +918524011354
