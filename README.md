@@ -46,25 +46,25 @@ See weight displayed in real time.
 This application is extremely useful in industries where weight measurement is critical:
 
 🏭 Manufacturing & Production
-Measure raw materials going into production
+-Measure raw materials going into production
 
-Automate pack weight verification before shipping
+-Automate pack weight verification before shipping
 
 🚚 Logistics & Warehousing
-Record box or pallet weight while scanning inventory
+-Record box or pallet weight while scanning inventory
 
-Integrate weight readings with barcode/RFID systems
+-Integrate weight readings with barcode/RFID systems
 
 🛒 Retail & Billing Counters
-Integrate with POS to fetch real-time weight for items sold by weight
+-Integrate with POS to fetch real-time weight for items sold by weight
 
 🧪 Laboratory or Medical Use
-Capture sample weights during tests or experiments
+-Capture sample weights during tests or experiments
 
 📦 Shipping & Dispatch Centers
-Verify weight during parcel packaging and invoicing
+-Verify weight during parcel packaging and invoicing
 
-Prevent fraud or underweight packaging
+-Prevent fraud or underweight packaging
 
 
 **Contact:**
