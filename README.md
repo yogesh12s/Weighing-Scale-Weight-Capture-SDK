@@ -27,7 +27,7 @@ A modern, user-friendly Python application to read weights from a **serial-conne
 ```bash
 pip install pyserial
 ```
-**🖥️ How to Use**
+**🖥️ How to Use**--------------------------
 
 Connect your weighing scale via USB/Serial.
 
@@ -41,7 +41,7 @@ Click "Read Weight".
 
 See weight displayed in real time.
 
-**🔄 Real-Time Uses and Deployment Ideas**
+**🔄 Real-Time Uses and Deployment Ideas**-------------------------------------------------------------
 
 This application is extremely useful in industries where weight measurement is critical:
 
@@ -65,3 +65,7 @@ Capture sample weights during tests or experiments
 Verify weight during parcel packaging and invoicing
 
 Prevent fraud or underweight packaging
+**Contact:**
+
++918524011354
+yogeshgokul372@gmail.com
