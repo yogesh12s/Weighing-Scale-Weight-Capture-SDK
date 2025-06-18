@@ -35,6 +35,8 @@ Run the app:
 ```bash
 python weight.py
 ```
+![image](https://github.com/user-attachments/assets/a881f7da-86ca-4d30-9858-fe5cc1093b75)
+
 Select COM port from the dropdown.
 
 Click "Read Weight".
